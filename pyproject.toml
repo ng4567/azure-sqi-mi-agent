@@ -1,0 +1,15 @@
+[project]
+name = "azure-sql-mi-agent"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "agent-framework>=1.0.0b251001",
+    "mssql-python>=0.13.0",
+    "pyodbc>=5.2.0",
+    "python-dotenv>=1.1.1",
+]
+
+[tool.uv]
+prerelease = "allow"
