@@ -5,7 +5,7 @@
 
 Cloud Dependencies Needed:
 - Azure AI Foundry
-- Deployed LLM in Foundry that support tool calling 
+- Deployed LLM in Foundry that supports tool calling 
 - Azure SQL DB Managed Instance
 
 # Create Virtual Environment
@@ -34,4 +34,7 @@ uv sync
 
 # Usage
 
-To run: `uv run agent.py`
+To run: 
+```bash
+uv run agent.py
+```
