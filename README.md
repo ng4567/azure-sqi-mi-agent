@@ -1,7 +1,7 @@
 # Install Dependencies
 
-- install uv package manager: [link](https://docs.astral.sh/uv/getting-started/installation/)
-- install bcp: [link](https://learn.microsoft.com/en-us/sql/tools/bcp-utility?view=sql-server-ver17&tabs=windows)
+- Install uv package manager: [link](https://docs.astral.sh/uv/getting-started/installation/)
+- Install bcp: [link](https://learn.microsoft.com/en-us/sql/tools/bcp-utility?view=sql-server-ver17&tabs=windows)
 
 Cloud Dependencies Needed:
 - Azure AI Foundry
